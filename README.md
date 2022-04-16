@@ -1,14 +1,18 @@
 # Anomaly Detection
 
 ## project description
-Conducted as part of VK test task in May 2019. 
+Conducted as part of VK.com test task in May 2019. 
 
 **Task:** 
 1. Reproduce the ad impressions plot;  
 2. Find the reason for the increase of advertising impressions and explain what happened;  
 3. \*Suggest a way that would help to automatically detect abnormal changes in metrics on advertising statistics charts.  
 
-Full notebook: [here](https://github.com/actuallyykatie/anomalydetection/blob/main/vk_anomalies_test.ipynb).
+Full notebook: 
+- in english: [here](https://github.com/actuallyykatie/anomalydetection/blob/main/vk_anomalies_test.ipynb)
+- original version: [here](vk.cc/9q0YE3)
+
+<img src="/qr_9q0YE3.png" width="100">
 
 ## summary
 
