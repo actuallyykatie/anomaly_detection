@@ -10,7 +10,7 @@ Conducted as part of VK.com test task in May 2019.
 
 Full notebook: 
 - in english: [here](https://github.com/actuallyykatie/anomalydetection/blob/main/vk_anomalies_test.ipynb)
-- original version: [here](vk.cc/9q0YE3)
+- original version: [here](https://nbviewer.jupyter.org/urls/dl.dropbox.com/s/rc6y4ervxpbm0q2/vk_anomalies_test.ipynb)
 
 <img src="/qr_9q0YE3.png" width="100">
 
